@@ -7,13 +7,14 @@ mask on one mobile number and email id. Users can see the current active cases t
 
 ## Technical Details :-
 
-Language :-  
+Language :- 
 - Java .
 - JavaScript .
 - Html . 
+- Css .
+- Bootstrap .
 - Jquery .
 - Jsp .
-- Css .
 
 Database :- 
 - Mysql Database .
