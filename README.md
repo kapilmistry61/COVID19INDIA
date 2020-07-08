@@ -1,7 +1,7 @@
 # COVID19INDIA
 
 ## Description :-
-In "COVID19INDIA" users can send request online for getting free mask without any difficulty. he/she doesn't need to register first. Users can get one free 
+In "COVID19INDIA" users can send requests online for getting a free mask without any difficulty. he/she doesn't need to register first. Users can get one free 
 mask on one mobile number and email id. Users can see the current active cases through the third party website that is available on COVID19INDIA.
 
 
