@@ -26,7 +26,7 @@ Tools & Server :-
 - Apache NetBeans IDE . 
 - XAMPP server . 
 
-## Visit this site for more information :-
+## Site is live :-
 http://getfreemask.epizy.com/
 
 ![screencapture-getfreemask-epizy-com-1594134045881](https://user-images.githubusercontent.com/32435747/86881248-96fa2b80-c10b-11ea-9da9-1efa8b8bb7ee.png)
